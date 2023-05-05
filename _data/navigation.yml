@@ -1,0 +1,17 @@
+main:
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "About"
+    url: /_pages/about/
+  - title: "Tutoring Info"
+    url: /_pages/tutoring-info/
+  - title: "Teaching Blog"
+    url: /posts/
+  # -title: "Teaching Resources"
+  #   url: /teaching-resources/
+  # - title: "Student Resources"
+  #   url: /student-resources/
