@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Morgan Presley"
-  avatar : "/assets/images/headshot-icon.png"
+  avatar : "./assets/images/headshot-icon.png"
   bio    : "Enthusiastic teacher of physics and mathematics!"
   location: "Berkeley, CA"
   email: mpresley141@gmail.com
