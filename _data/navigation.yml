@@ -10,7 +10,7 @@ main:
   - title: "Tutoring Info"
     url: /_pages/tutoring-info/
   - title: "Teaching Blog"
-    url: /posts/
+    url: /_posts/
   # -title: "Teaching Resources"
   #   url: /teaching-resources/
   # - title: "Student Resources"
