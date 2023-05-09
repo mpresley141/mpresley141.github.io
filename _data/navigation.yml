@@ -6,11 +6,11 @@ main:
   # - title: "Tags"
   #   url: /tags/
   - title: "About"
-    url: /_pages/about/
+    url: /pages/about/
   - title: "Tutoring Info"
-    url: /_pages/tutoring-info/
+    url: /pages/tutoring-info/
   - title: "Teaching Blog"
-    url: /_posts/
+    url: /posts/
   # -title: "Teaching Resources"
   #   url: /teaching-resources/
   # - title: "Student Resources"

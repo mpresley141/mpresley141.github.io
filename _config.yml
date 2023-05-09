@@ -35,7 +35,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages
+  - pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -94,9 +94,9 @@ footer:
       url: "mailto:mpresley141@gmail.com"
 
 defaults:
-  # _posts
+  # posts
   - scope:
-      path: ""
+      path: "posts"
       type: posts
     values:
       layout: single
@@ -105,9 +105,9 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # pages
   - scope:
-      path: "_pages"
+      path: "pages"
       type: pages
     values:
       layout: single
