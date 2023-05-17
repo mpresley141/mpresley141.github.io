@@ -13,12 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Morgan Presley
+title: Resonance Tutoring
 email: mpresley141@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My professional website. 
-  
-#baseurl : "/mpresley141.github.io" # the subpath of your site, e.g. "/blog"
+  Math and physics tutoring that resonates with YOU. 
+
+
+baseurl : "" # the subpath of your site, e.g. "/blog"
+logo: "/assets/images/resonance_icon.png" # note: this will only take png files, NOT pdf files!!!
+teaser: "/assets/images/resonance_icon.png"
 #twitter_username: username
 github_username: mpresley141
 repository: mpresley141/mpresley141.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
