@@ -5,11 +5,11 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "About"
+  - title: "About Me"
     url: /pages/about/
   - title: "Tutoring Info"
     url: /pages/tutoring-info/
-  - title: "Teaching Blog"
+  - title: "Blog"
     url: /posts/
   # -title: "Teaching Resources"
   #   url: /teaching-resources/

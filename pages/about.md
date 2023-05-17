@@ -2,7 +2,6 @@
 title : About Me
 layout : single
 ---
-
 ## Teaching
 
 I am an experienced teacher of physics and mathematics, currently working as a private tutor in physics and mathematics for high school and college students. Previously, as a graduate student at UC Berkeley, I taught for many introductory and advanced undergraduate physics courses. 
