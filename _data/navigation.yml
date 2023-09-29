@@ -11,7 +11,7 @@ main:
     url: /pages/tutoring-info/
   - title: "Blog"
     url: /posts/
-  # -title: "Teaching Resources"
-  #   url: /teaching-resources/
+  - title: "Resources"
+    url: /resources/
   # - title: "Student Resources"
   #   url: /student-resources/
