@@ -12,6 +12,5 @@ main:
   - title: "Blog"
     url: /posts/
   - title: "Resources"
-    url: /resources/
-  # - title: "Student Resources"
-  #   url: /student-resources/
+    url: /pages/resources/
+  
